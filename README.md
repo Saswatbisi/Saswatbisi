@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*aniyNTcHORbvDiLGUzJSsQ.gif)
 
 <h1 align="center">Hi 👋, I'm Saswat Bisi</h1>
-<h3 align="center">I'm a Frontend Developer</h3>
+<h3 align="center">I'm a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatbisi&label=Profile%20views&color=0e75b6&style=flat" alt="saswatbisi" /> </p>
 
